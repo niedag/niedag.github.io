@@ -73,6 +73,9 @@ To generate the minimized and uglified zip files, run this command:
 npx gulp 
 ```
 
+In order to deploy to Github pages, run bash tools/init
+
+My version of the init.sh is similar to the original repository which does not use .hook for the pages-deploy.yml file. I also changed the directory of the pages-deploy.yml to be in the workflows folder in order for the init.sh file to see it.
 
 ## License
 
