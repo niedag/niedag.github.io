@@ -3,7 +3,15 @@
 
 ## Useful resources
 
-## Documentation
+Issues solved from 7.3.0 forked version on June 16, 2025
+- Outdated packages using Ubuntu 'sudo apt install' (Ruby, bundler, rbenv, aria2c)
+- Don't use snap for Ruby projects due to permission issues and poor version control
+- Fork the repository instead of cloning, the init.sh file will not work without forking
+- gem 'jekyll-include-cache', '~> 0.2' added to the Gemfile
+- Manually installed Ruby 3.1.0 using rbenv (Ubuntu current version is out-of-date: 3.0.7)
+
+
+### Documentation
 
 To learn how to use, develop, and upgrade the project, please refer to the [Wiki][wiki].
 
