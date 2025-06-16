@@ -9,6 +9,14 @@ Issues solved from 7.3.0 forked version on June 16, 2025
 - Fork the repository instead of cloning, the init.sh file will not work without forking
 - gem 'jekyll-include-cache', '~> 0.2' added to the Gemfile
 - Manually installed Ruby 3.1.0 using rbenv (Ubuntu current version is out-of-date: 3.0.7)
+- Removed snap and rvm
+- Edit bashrc file to prioritize rbenv instead of local system version
+
+
+TODO:
+- Work on deattaching the fork from the website
+- Creating the first blog post
+- 
 
 
 ### Documentation
