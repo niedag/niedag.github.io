@@ -12,6 +12,7 @@ Issues solved from 7.3.0 forked version on June 16, 2025
 - Removed snap and rvm
 - Edit bashrc file to prioritize rbenv instead of local system version
 - Removed husky and commitlint using npm
+- changed ruby version in the _config.yml file (deployment works!)
 
 TODO:
 - Work on deattaching the fork from the website
