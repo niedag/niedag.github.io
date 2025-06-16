@@ -11,7 +11,7 @@ Issues solved from 7.3.0 forked version on June 16, 2025
 - Manually installed Ruby 3.1.0 using rbenv (Ubuntu current version is out-of-date: 3.0.7)
 - Removed snap and rvm
 - Edit bashrc file to prioritize rbenv instead of local system version
-
+- Removed husky and commitlint using npm
 
 TODO:
 - Work on deattaching the fork from the website
