@@ -16,7 +16,7 @@ timezone:
 
 title: Grant Nieda # the main title
 
-tagline: Personal website and blog gusing Jekyll # it will display as the subtitle
+tagline: Personal website and blog using Jekyll # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Blog for mostly academic purposes and personal website to display work
