@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 1
 ---
 
-Hi, I'm Grant! Currently I am a research assistant at Stanford Medicine in the Quantitative Sciences Unit where I do collaborate with physicians and epidemiologists on lung and brain cancer predicitive;. Here I learned a lot about technical writing, data management, and advanced statistical techniques (survival analysis, time series (longitudinal data) smoothing, functional data analysis, and large-language model assessment). 
+Hi, I'm Grant! Currently I am a research assistant at Stanford Medicine in the Quantitative Sciences Unit where I collaborate with physicians and epidemiologists about mostly second primary lung cancer and brain metastasis. I additionally help incorporate machine learning approaches and apply LLM models into the papers. Here I learned a lot about technical writing, data management, and advanced statistical techniques (survival analysis, time series (longitudinal data) smoothing, functional data analysis, and large-language model assessment). 
 
 Concurrently, I am a backend engineer at a small tech start-up in Palo Alto working mostly in Python. I have been programming since I was a kid and have been maintaining it through personal projects. My favorite language is Java but most of my work is performed in Python or R.
 
