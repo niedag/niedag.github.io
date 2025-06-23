@@ -15,14 +15,14 @@ Issues solved from 7.3.0 forked version on June 16, 2025
 - changed ruby version in the _config.yml file (deployment works!)
 
 TODO:
-- Work on deattaching the fork from the website
+- Work on deattaching the fork from the website (completed)
 - Creating the first blog post
-- 
+
 
 
 ### Documentation
 
-To learn how to use, develop, and upgrade the project, please refer to the [Wiki][wiki].
+To learn how to use, develop, and upgrade the project, please refer to https://chirpy.cotes.page/posts/getting-started/
 
 
 ## License
