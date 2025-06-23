@@ -27,4 +27,4 @@ To learn how to use, develop, and upgrade the project, please refer to https://c
 
 ## License
 
-This project is published under [MIT License][license].
+This project is published under the [MIT License]
